@@ -103,10 +103,10 @@ sentiment-classifier/
 │   │   ├── lstm_model.keras
 │   │   └── tokenizer.pkl
 │   └── bert_sentiment/        # fine-tuned DistilBERT (PyTorch)
-├── images/                    # EDA plots, app screenshot
+├              
 ├── senti.ipynb                # main notebook: EDA, preprocessing, training, evaluation
 ├── senti_app.py                # Streamlit app
-├── requirements.txt
+├
 └── README.md
 ```
 
